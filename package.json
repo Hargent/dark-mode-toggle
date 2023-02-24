@@ -1,0 +1,19 @@
+{
+	"name": "darkmode-toggle",
+	"version": "1.0.0",
+	"description": "",
+	"default": "index.html",
+	"scripts": {
+		"start": "parcel index.html --open",
+		"build": "parcel build index.html --dist-dir"
+	},
+	"dependencies": {
+		"emmet": "2.3.6",
+		"node-sass": "8.0.0"
+	},
+	"devDependencies": {
+		"@babel/core": "7.2.0",
+		"parcel-bundler": "^1.6.1"
+	},
+	"keywords": []
+}
