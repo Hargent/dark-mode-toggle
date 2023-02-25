@@ -5,7 +5,7 @@
 	"default": "index.html",
 	"scripts": {
 		"start": "parcel index.html --open",
-		"build": "parcel build index.html --dist-dir"
+		"build": "parcel build index.html --dist-dir ./dist"
 	},
 	"dependencies": {
 		"emmet": "2.3.6",
